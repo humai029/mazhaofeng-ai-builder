@@ -2,7 +2,7 @@
 
 独立的个人作品集前端，使用 Vite、原生 JavaScript 和 CSS 构建。
 
-在线访问：https://nirvan-a.github.io/mazhaofeng-ai-builder/
+在线访问：https://humai029.github.io/mazhaofeng-ai-builder/
 
 ## 功能
 
